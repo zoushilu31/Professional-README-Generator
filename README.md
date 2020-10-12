@@ -14,7 +14,8 @@ A password generator app
 ## Installation
 
 download the zip file from my github
-video demo https://drive.google.com/file/d/1UvOrZjFQqCvGma1_OPLHK3iV4AbXINiH/view?usp=sharing
+
+*video demo https://drive.google.com/file/d/1UvOrZjFQqCvGma1_OPLHK3iV4AbXINiH/view?usp=sharing
 
 ## Usage 
 
